@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JUnit Report Generation Example</name>
 	<description>How to generate JUnit Reports</description>
-<!--test webhook 1-->
+<!--test webhook -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
